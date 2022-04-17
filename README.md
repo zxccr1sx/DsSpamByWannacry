@@ -1,4 +1,4 @@
-![alt text](https://github.com/[zxccr1sx]/[DsSpamByWannacry]/blob/[branch]/20220417_193631.jpg?raw=true)
+![image](https://github.com/[zxccr1sx]/[DsSpamByWannacry]/blob/[main]/20220417_193631.jpg?raw=true)
 
 # DsSpamByWannacry
 
