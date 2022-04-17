@@ -11,6 +11,7 @@ pkg install git
 git clone https://github.com/zxccr1sx/DsSpamByWannacry.git
 cd DsSpamByWannacry
 pip install requests
+pip install colorama
 python spammer.py
 ```
 
